@@ -11,5 +11,6 @@ package com.mycompany.projeto10;
 public class Classe2 {
     public static void main(String[] args) {
         System.out.println("fdfdfd");
+        System.out.println("dsdsdsccssssssssss");
     }
 }
