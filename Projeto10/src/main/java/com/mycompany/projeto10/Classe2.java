@@ -13,5 +13,7 @@ public class Classe2 {
         System.out.println("fdfdfd");
         System.out.println("dsdsdsccssssssssss");
         //1
+        //2
+        //3
     }
 }
