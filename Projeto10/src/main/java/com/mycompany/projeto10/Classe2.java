@@ -12,5 +12,8 @@ public class Classe2 {
     public static void main(String[] args) {
         System.out.println("fdfdfd");
         System.out.println("dsdsdsccssssssssss");
+        //1
+        //2
+        //3
     }
 }
